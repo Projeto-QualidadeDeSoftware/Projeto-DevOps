@@ -21,3 +21,13 @@ A aplicação realiza a conexão e a persistência dos dados automaticamente, co
 O gerenciamento das dependências e do processo de compilação é realizado pelo **Maven**.
 
 Para testes e validação dos endpoints da API, foi utilizado o **Insomnia**.
+
+## Front-end Web
+
+A interface web foi desenvolvida para ser moderna e responsiva, atendendo aos fluxos de sistema de vendas, exibição de catálogo de produtos, gerenciamento de carrinho de compras e controle de estoque. O desenvolvimento é focado em uma experiência de usuário (UX) fluida e em uma arquitetura baseada em componentes reaproveitáveis.
+
+* **React** como biblioteca core para a construção de interfaces;
+* **JavaScript (ES6+)** como linguagem base para o desenvolvimento da lógica da aplicação;
+* **Tailwind CSS** como framework CSS utilitário para a criação de designs rápidos, customizados e responsivos;
+* **HTML5** e **CSS3** para a estruturação semântica e estilizações base da web;
+* **React Icons** como biblioteca centralizada de ícones para os componentes da interface.
