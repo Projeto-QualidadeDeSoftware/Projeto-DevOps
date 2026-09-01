@@ -24,7 +24,7 @@ Para testes e validação dos endpoints da API, foi utilizado o **Insomnia**.
 
 ## Front-end Web
 
-A interface web foi desenvolvida para ser moderna e responsiva, atendendo aos fluxos de sistema de vendas, exibição de catálogo de produtos, gerenciamento de carrinho de compras e controle de estoque. O desenvolvimento é focado em uma experiência de usuário (UX) fluida e em uma arquitetura baseada em componentes reaproveitáveis.
+A interface web oferece uma experiência de usuário (UX) fluida e responsiva, integrando os fluxos do sistema de vendas, exibição de catálogo de produtos, gerenciamento de carrinho de compras e controle de estoque. O desenvolvimento adota uma arquitetura modular baseada em componentes limpos e reaproveitáveis, garantindo alta performance e facilidade de manutenção.
 
 * **React** como biblioteca core para a construção de interfaces;
 * **JavaScript (ES6+)** como linguagem base para o desenvolvimento da lógica da aplicação;
