@@ -22,7 +22,7 @@ O gerenciamento das dependências e do processo de compilação é realizado pel
 
 Para testes e validação dos endpoints da API, foi utilizado o **Insomnia**.
 
-## Front-end Web
+## Front-end Web - Melissa
 
 A interface web oferece uma experiência de usuário (UX) fluida e responsiva, integrando os fluxos do sistema de vendas, exibição de catálogo de produtos, gerenciamento de carrinho de compras e controle de estoque. O desenvolvimento adota uma arquitetura modular baseada em componentes limpos e reaproveitáveis, garantindo alta performance e facilidade de manutenção.
 
