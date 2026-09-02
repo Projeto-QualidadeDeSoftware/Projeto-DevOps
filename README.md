@@ -31,3 +31,12 @@ A interface web oferece uma experiência de usuário (UX) fluida e responsiva, i
 * **Tailwind CSS** como framework CSS utilitário para a criação de designs rápidos, customizados e responsivos;
 * **HTML5** e **CSS3** para a estruturação semântica e estilizações base da web;
 * **React Icons** como biblioteca centralizada de ícones para os componentes da interface.
+
+## Front-end Mobile - Diego
+
+A interface Mobile terá integração com os endpoints da api, utilizando-se de estratégias de UI e UX para a mais flúida experiência de navegação para usuários que utilizarão dispositivos celulares ou tablets.
+
+* **React Native** Como framework principal;
+* **Type-script** como principal linguagem para o desenvolvimento do projeto;
+
+
