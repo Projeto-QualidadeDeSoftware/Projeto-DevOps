@@ -37,6 +37,6 @@ A interface web oferece uma experiência de usuário (UX) fluida e responsiva, i
 A interface Mobile terá integração com os endpoints da api, utilizando-se de estratégias de UI e UX para a mais flúida experiência de navegação para usuários que utilizarão dispositivos celulares ou tablets.
 
 * **React Native** Como framework principal;
-* **Type-script** como principal linguagem para o desenvolvimento do projeto;
+* **Type-script JSX** como principal linguagem para o desenvolvimento do projeto;
 
 
