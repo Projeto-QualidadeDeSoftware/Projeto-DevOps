@@ -39,4 +39,15 @@ A interface Mobile terá integração com os endpoints da api, utilizando-se de 
 * **React Native** Como framework principal;
 * **Type-script JSX** como principal linguagem para o desenvolvimento do projeto;
 
+* Front-end Desktop - Luiz
+A interface Desktop será voltada para operações de PDV (Ponto de Venda) e gestão administrativa, integrada com os endpoints da API REST e focada em performance, uso assíncrono para evitar travamentos de tela e alta testabilidade de software.
+
+* **Java 21 / JavaFX como tecnologia principal para a construção da interface gráfica;
+
+* **FXML & SceneBuilder para a estruturação declarativa e componentização das telas;
+
+* **HttpClient & Jackson para consumo assíncrono da API REST e serialização de dados;
+
+* **JUnit 5 & TestFX para automação de testes unitários e testes de interface (UI).
+
 
