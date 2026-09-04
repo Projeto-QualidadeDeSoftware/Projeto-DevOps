@@ -1,6 +1,6 @@
 # Stack Tecnológica
 
-## API
+## API - Fernanda
 
 O projeto utiliza:
 
@@ -10,7 +10,7 @@ O projeto utiliza:
 * **Spring Data JPA** e **Hibernate** para o mapeamento objeto-relacional e persistência dos dados;
 * **Bean Validation** para validação das informações recebidas pela API.
 
-## Banco de Dados
+## Banco de Dados - Beatriz
 
 O banco de dados utilizado é o **MySQL**, sendo sua estrutura gerenciada pela aplicação por meio do **JPA/Hibernate**.
 
@@ -47,9 +47,18 @@ A interface Mobile terá integração com os endpoints da api, utilizando-se de 
 
 * **React Native** Como framework principal;
 * **Type-script JSX** como principal linguagem para o desenvolvimento do projeto;
-
 * **HttpClient & Jackson para consumo assíncrono da API REST e serialização de dados;
-
 * **JUnit 5 & TestFX para automação de testes unitários e testes de interface (UI).
+
+## DevOps
+
+A infraestrutura e o processo de desenvolvimento do projeto utilizam ferramentas voltadas para o controle de versão, colaboração, automação, integração e implantação da aplicação. Essa abordagem permite organizar o trabalho da equipe, automatizar etapas do ciclo de desenvolvimento e garantir maior padronização e confiabilidade no processo de entrega.
+
+**Git** — controle de versão e gerenciamento do histórico de alterações do código;
+**GitHub** — hospedagem do código-fonte, colaboração entre os integrantes e gerenciamento do projeto;
+**GitHub Actions** — automação dos processos de integração e entrega contínua (CI/CD);
+**Docker** — containerização da aplicação e padronização do ambiente de execução;
+**Linux** — sistema operacional utilizado como ambiente de execução e hospedagem da aplicação;
+**Nginx** — servidor web e reverse proxy responsável pelo encaminhamento das requisições para a aplicação.
 
 
